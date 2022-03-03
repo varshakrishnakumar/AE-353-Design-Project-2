@@ -1,4 +1,4 @@
-# AE-353-Design-Project-1
+# AE-353-Design-Project-2
 Designing and implementing a Differential-Drive Robot
 
 *Version March 2022*
