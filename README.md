@@ -30,5 +30,5 @@ After creating the environment, if Jupyter and Git are not enabled on Anaconda's
     cd *location of cloned repository*
     jupyter notebook
  
- Upon completion of the instructions, a new Jupyter notebook will be opened. Navigate to *SegbotDemo.ipynb* to compile the project.
+ Upon completion of the instructions, a new Jupyter notebook will be opened. Navigate to *RunSegbot.ipynb* to compile the project.
  
