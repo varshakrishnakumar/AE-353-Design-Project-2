@@ -7,7 +7,7 @@ Designing and implementing a Differential-Drive Robot
 The objective of this exploration is to design, implement, and testing a controller that enables a differential-drive robot to move quickly around the inside of a rotating space station under artificial gravity. This was primarly tested in a Python Jupyter Notebook environment. 
 
 ### Instructions for compilation
-The main file, *SegbotDemo.ipynb*, runs on an *ae353* anaconda environment. The instructions given below will set up the user's system for project compilation.
+The main file, *RunSegbot.ipynb*, runs on an *ae353* anaconda environment. The instructions given below will set up the user's system for project compilation.
 
     conda create -n ae353
     
