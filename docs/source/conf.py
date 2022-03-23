@@ -37,7 +37,7 @@ extensions = [
 templates_path = ['_templates']
 
 # The root document.
-root_doc = 'main.rst'
+root_doc = 'index.rst'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
