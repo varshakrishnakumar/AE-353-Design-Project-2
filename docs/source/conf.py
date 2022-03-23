@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'SegBot'
+project = 'Differential-Drive Robot in Artificial Gravity'
 copyright = '2022, Varsha Krishnakumar'
 author = 'Varsha Krishnakumar'
 
@@ -38,6 +38,7 @@ templates_path = ['_templates']
 
 # The root document.
 root_doc = 'index'
+master_doc = 'index'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -61,6 +62,8 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # documentation.
 html_theme_options = {
    'collapse_navigation': False,
+   'sticky_navigation': True,
+   'titles_only': True, 
 
 }
 
